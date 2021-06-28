@@ -1,0 +1,11 @@
+.header-icon {
+  width: 30%;
+}
+
+.navbar {
+  border-bottom: 1px solid #cbcbcb;
+}
+
+.header-container {
+  padding-top: 10px !important;
+}

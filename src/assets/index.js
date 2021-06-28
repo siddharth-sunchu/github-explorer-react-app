@@ -1,0 +1,1 @@
+export { default as CartaIcon } from './Carta-Icon.png';
