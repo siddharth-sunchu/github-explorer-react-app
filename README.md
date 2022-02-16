@@ -1,9 +1,9 @@
 # Description
 Github API Explorer React App
 
-This application is bootstrap from create react app. To speed up the process of development I have used two CSS libaries/framework Ant Design and Bootstrap for CSS Styling and also used inline stylying at some places. Hope that is fine. I have also wrote test cases for reducer, api and utils which has 100% coverage, but for containers and components I wrote a few tets cases for demonstatrion.
+This application is bootstrap from create react app. To speed up the process of development I have used two CSS libaries/framework Ant Design and Bootstrap for CSS Styling and also used inline styles at some places. Hope that is fine. I have also wrote test cases for reducer, api and utils which has 100% coverage, but for containers and components I wrote a few tets cases for demonstration.
 
-I tried using the same mocks provided in the document and created the UI Design. It is compatiable with the Mobile screen as well. 
+I tried using the same mocks provided in the document and created the UI Design. It is supported with the Mobile screen as well. 
 
 For Recent Searches I am using Local storage and react state for storing the recent search values and everything else is stored in Redux.
 For Icons I am using primer/octicons-react.
